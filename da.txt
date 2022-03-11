@@ -1,2 +1,2 @@
 1st user text here and some other text here
-test b1
+test b1 b2
